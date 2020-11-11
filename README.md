@@ -12,6 +12,6 @@ go build
 ./WEB_SERVER
 ```
 ## Testing the API 
-
+> i deleted the design part of the web app, now the app works but you will not get the image :(
 ---
 ![screencast](screen/screen.gif)
